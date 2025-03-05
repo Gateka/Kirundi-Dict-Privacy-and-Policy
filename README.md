@@ -24,12 +24,6 @@ We do not share any personal information with third-party companies or individua
 
 ---
 
-## Google Mobile Ads
-
-Our app uses the Google Mobile Ads SDK to display ads. Google may collect certain non-personal information about your device and usage patterns to personalize the ads you see. Please refer to Google's Privacy Policy for more information: [Google Privacy Policy](https://policies.google.com/privacy)
-
----
-
 ## Data Security Measures
 
 Although we do not collect personal information, we strive to maintain a secure environment for our users.
